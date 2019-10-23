@@ -237,6 +237,15 @@ input.input100 {
   color: #fff;
 }
 
+/*==================================================================
+  CUSTOM CUSTOM CUSTOM CUSTOM CUSTOM CUSTOM CUSTOM CUSTOM CUSTOM
+==================================================================*/
+.footer {
+  position: fixed;
+  bottom: 0;
+  padding-bottom: 10px;
+}
+
 .tamil {
   font-family: 'Kavivanar', cursive;
 }
