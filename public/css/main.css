@@ -277,12 +277,23 @@ input.input100 {
   text-align: center;
 }
 
-.span-link span {
+.span-link {
   color: #389e3c;
 }
 
-.span-link span:hover {
+.span-link:hover {
   color: cornflowerblue;
+}
+
+.blocker {
+  position: absolute;
+  height: 250px;
+  width: 350px;
+  z-index: 1;
+}
+
+.linkwrap iframe {
+  z-index: 2;
 }
 
 /*==================================================================
